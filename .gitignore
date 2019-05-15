@@ -1,6 +1,6 @@
 imgs/
 data/in/
-
-
+.ipynb_checkpoints/
+predict_1_imgs/
 
 .DS_Store
